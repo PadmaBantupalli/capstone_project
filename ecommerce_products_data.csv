@@ -1,0 +1,118 @@
+product_name,price,rating,reviews,category,productlist,brand,series,value_score,value_score_scaled,popularity
+Asus VivoBook X441NA-GA190,295.99,3,14,Consumer,"['Asus', 'VivoBook', 'X441NA-GA190']",Asus,VivoBook,0.010135477549917227,0.746933492099051,1
+Prestigio SmartBook 133S Dark Grey,299.0,2,8,Consumer,"['Prestigio', 'SmartBook', '133S', 'Dark', 'Grey']",Prestigio,SmartBook,0.006688963210702341,0.4779400914859082,1
+Prestigio SmartBook 133S Gold,299.0,4,12,Consumer,"['Prestigio', 'SmartBook', '133S', 'Gold']",Prestigio,SmartBook,0.013377926421404682,1.0,1
+Aspire E1-510,306.99,3,2,Consumer,"['Aspire', 'E1-510']",Acer,Aspire,0.00977230528681716,0.718588639170944,0
+Lenovo V110-15IAP,321.94,3,5,Consumer,"['Lenovo', 'V110-15IAP']",Lenovo,V-Series,0.009318506554016276,0.6831705754939329,0
+Lenovo V110-15IAP,356.49,2,6,Consumer,"['Lenovo', 'V110-15IAP']",Lenovo,V-Series,0.005610255547140172,0.3937491628750772,0
+Hewlett Packard 250 G6 Dark Ash Silver,364.46,1,12,Consumer,"['Hewlett', 'Packard', '250', 'G6', 'Dark', 'Ash', 'Silver']",HP,Packard,0.0027437853262360754,0.17002702027318484,1
+Acer Aspire 3 A315-31 Black,372.7,2,2,Consumer,"['Acer', 'Aspire', '3', 'A315-31', 'Black']",Acer,Aspire,0.005366246310705662,0.3747047406474629,0
+Acer Aspire A315-31-C33J,379.94,2,0,Consumer,"['Acer', 'Aspire', 'A315-31-C33J']",Acer,Aspire,0.005263989050902774,0.3667237705006722,0
+Acer Aspire ES1-572 Black,379.95,4,9,Consumer,"['Acer', 'Aspire', 'ES1-572', 'Black']",Acer,Aspire,0.010527701013291223,0.7775457318372642,1
+Acer Aspire 3 A315-31 Black,391.48,4,10,Consumer,"['Acer', 'Aspire', '3', 'A315-31', 'Black']",Acer,Aspire,0.010217635639113109,0.7533457630561805,1
+Acer Aspire 3 A315-21,393.88,3,9,Consumer,"['Acer', 'Aspire', '3', 'A315-21']",Acer,Aspire,0.007616532954199249,0.5503350143127582,1
+Asus VivoBook Max,399.0,1,4,Consumer,"['Asus', 'VivoBook', 'Max']",Asus,VivoBook,0.002506265664160401,0.15148909606168287,0
+Asus VivoBook E502NA-GO022T Dark Blue,399.99,4,3,Consumer,"['Asus', 'VivoBook', 'E502NA-GO022T', 'Dark', 'Blue']",Asus,VivoBook,0.010000250006250155,0.7363792586772762,0
+Lenovo ThinkPad E31-80,404.23,1,12,Business,"['Lenovo', 'ThinkPad', 'E31-80']",Lenovo,ThinkPad,0.002473839150978403,0.1489582729771518,1
+Acer Aspire 3 A315-31 Black,408.98,4,10,Consumer,"['Acer', 'Aspire', '3', 'A315-31', 'Black']",Acer,Aspire,0.009780429360848941,0.7192227065461401,1
+Lenovo V110-15ISK,409.63,3,9,Consumer,"['Lenovo', 'V110-15ISK']",Lenovo,V-Series,0.007323682347484315,0.5274786229507491,1
+Acer Aspire ES1-732 Black,410.46,4,14,Consumer,"['Acer', 'Aspire', 'ES1-732', 'Black']",Acer,Aspire,0.009745163962383667,0.7164703142670142,1
+Asus VivoBook 15 X540NA-GQ026T,410.66,4,4,Consumer,"['Asus', 'VivoBook', '15', 'X540NA-GQ026T']",Asus,VivoBook,0.009740417863926362,0.7160998909819145,0
+Packard 255 G2,416.99,2,2,Consumer,"['Packard', '255', 'G2']",HP,Packard,0.004796278088203554,0.3302198857122021,0
+Asus EeeBook R416NA-FA014T,433.3,1,1,Consumer,"['Asus', 'EeeBook', 'R416NA-FA014T']",Asus,EeeBook,0.0023078698361412415,0.13600470714180657,0
+Acer Aspire 3 A315-51,436.29,1,1,Consumer,"['Acer', 'Aspire', '3', 'A315-51']",Acer,Aspire,0.00229205345068647,0.13477027058064706,0
+Acer Aspire ES1-572 Black,436.29,1,2,Consumer,"['Acer', 'Aspire', 'ES1-572', 'Black']",Acer,Aspire,0.00229205345068647,0.13477027058064706,0
+Acer Extensa 15 (2540) Black,439.73,4,6,Business,"['Acer', 'Extensa', '15', '(2540)', 'Black']",Acer,Extensa,0.009096491028585722,0.6658427174621329,0
+Acer Aspire ES1-572 Black,454.62,1,9,Consumer,"['Acer', 'Aspire', 'ES1-572', 'Black']",Acer,Aspire,0.0021996392591614976,0.12755753179689394,1
+Lenovo V110-15ISK,454.73,2,2,Consumer,"['Lenovo', 'V110-15ISK']",Lenovo,V-Series,0.004398214324984056,0.2991518225067348,0
+Acer Aspire A315-51-33TG,457.38,3,9,Consumer,"['Acer', 'Aspire', 'A315-51-33TG']",Acer,Aspire,0.006559097468188378,0.46780433568634305,1
+Lenovo V110-15IKB,465.95,1,7,Consumer,"['Lenovo', 'V110-15IKB']",Lenovo,V-Series,0.0021461530207103766,0.12338304019438694,1
+Asus VivoBook 15 X540UA-DM260 Chocolate Black,468.56,3,1,Consumer,"['Asus', 'VivoBook', '15', 'X540UA-DM260', 'Chocolate', 'Black']",Asus,VivoBook,0.00640259518524842,0.45558965234301785,0
+Acer Aspire ES1-572 Black,469.1,3,5,Consumer,"['Acer', 'Aspire', 'ES1-572', 'Black']",Acer,Aspire,0.006395224898742272,0.45501441654369906,0
+Lenovo V510 Black,484.23,3,8,Consumer,"['Lenovo', 'V510', 'Black']",Lenovo,V-Series,0.006195403010965863,0.43941872657417513,1
+Acer Aspire ES1-572 Black,485.9,3,6,Consumer,"['Acer', 'Aspire', 'ES1-572', 'Black']",Acer,Aspire,0.006174109899156205,0.4377568427136772,0
+Lenovo V510 Black,487.8,2,9,Consumer,"['Lenovo', 'V510', 'Black']",Lenovo,V-Series,0.004100041000410004,0.2758800038937382,1
+Acer Swift 1 SF113-31 Silver,488.64,3,4,Premium,"['Acer', 'Swift', '1', 'SF113-31', 'Silver']",Acer,Swift,0.006139489194499018,0.43505476746872657,0
+Dell Vostro 15,488.78,4,14,Consumer,"['Dell', 'Vostro', '15']",Dell,Vostro,0.008183640901837227,0.5945966306403521,1
+Acer Aspire 3 A315-51 Black,494.71,4,2,Consumer,"['Acer', 'Aspire', '3', 'A315-51', 'Black']",Acer,Aspire,0.008085545066806817,0.5869404511924444,0
+Dell Vostro 15 (3568) Red,497.17,1,9,Consumer,"['Dell', 'Vostro', '15', '(3568)', 'Red']",Dell,Vostro,0.002011384435907235,0.11286462757397812,1
+Lenovo V510 Black,498.23,3,5,Consumer,"['Lenovo', 'V510', 'Black']",Lenovo,V-Series,0.006021315456716777,0.42583154874378953,0
+HP 250 G3,520.99,2,13,Business,"['HP', '250', 'G3']",HP,HPEntry,0.0038388452753411774,0.2554942113518495,1
+Acer Spin 5,564.98,2,0,Convertible,"['Acer', 'Spin', '5']",Acer,Spin,0.003539948316754575,0.2321659145830477,0
+HP 350 G1,577.99,2,10,Business,"['HP', '350', 'G1']",HP,HPEntry,0.0034602674786761017,0.22594698801293034,1
+Aspire E1-572G,581.99,1,2,Consumer,"['Aspire', 'E1-572G']",Acer,Aspire,0.0017182425814876545,0.08998550492383749,0
+Pavilion,609.99,1,4,Consumer,['Pavilion'],HP,Pavilion,0.0016393711372317578,0.08382974988743262,0
+Acer Aspire A515-51-5654,679.0,2,9,Consumer,"['Acer', 'Aspire', 'A515-51-5654']",Acer,Aspire,0.0029455081001472753,0.18577107052073166,1
+Dell Inspiron 15,679.0,2,7,Consumer,"['Dell', 'Inspiron', '15']",Dell,Inspiron,0.0029455081001472753,0.18577107052073166,1
+Asus VivoBook S14,729.0,1,2,Consumer,"['Asus', 'VivoBook', 'S14']",Asus,VivoBook,0.0013717421124828531,0.06294185145310137,0
+ProBook,739.99,4,8,Business,['ProBook'],HP,ProBook,0.005405478452411519,0.37776672912977377,1
+Inspiron 15,745.99,3,12,Consumer,"['Inspiron', '15']",Dell,Inspiron,0.0040215016287081596,0.26975016644152805,1
+Asus ROG STRIX GL553VD-DM256,799.0,2,7,Gaming,"['Asus', 'ROG', 'STRIX', 'GL553VD-DM256']",Asus,ROG,0.0025031289111389237,0.15124427889886705,1
+Acer Nitro 5 AN515-51,809.0,1,0,Gaming,"['Acer', 'Nitro', '5', 'AN515-51']",Acer,Nitro,0.0012360939431396785,0.05235478905692981,0
+Asus ROG STRIX GL553VD-DM256,899.0,1,7,Gaming,"['Asus', 'ROG', 'STRIX', 'GL553VD-DM256']",Asus,ROG,0.0011123470522803114,0.04269659712404861,1
+Lenovo ThinkPad L570,999.0,3,11,Business,"['Lenovo', 'ThinkPad', 'L570']",Lenovo,ThinkPad,0.003003003003003003,0.1902584301876024,1
+ThinkPad Yoga,1033.99,2,13,Business,"['ThinkPad', 'Yoga']",Lenovo,ThinkPad,0.001934254683314152,0.10684480801240044,1
+Lenovo ThinkPad L460,1096.02,4,14,Business,"['Lenovo', 'ThinkPad', 'L460']",Lenovo,ThinkPad,0.0036495684385321435,0.24072154105964955,1
+Dell Inspiron 15 (7567) Black,1098.42,1,7,Consumer,"['Dell', 'Inspiron', '15', '(7567)', 'Black']",Dell,Inspiron,0.0009103985724950382,0.02693493099430029,1
+MSI GL72M 7RDX,1099.0,4,1,Gaming,"['MSI', 'GL72M', '7RDX']",MSI,MSI Gaming,0.003639672429481347,0.23994917777748237,0
+MSI GL72M 7RDX,1099.0,1,9,Gaming,"['MSI', 'GL72M', '7RDX']",MSI,MSI Gaming,0.0009099181073703367,0.026897431673232927,1
+Asus ROG Strix GL553VD-DM535T,1101.83,2,4,Gaming,"['Asus', 'ROG', 'Strix', 'GL553VD-DM535T']",Asus,ROG,0.0018151620485918883,0.09754987125922328,0
+Dell Latitude 5280,1102.66,1,8,Business,"['Dell', 'Latitude', '5280']",Dell,Latitude,0.0009068978651624254,0.026661707941305415,1
+Dell Latitude 5480,1110.14,3,4,Business,"['Dell', 'Latitude', '5480']",Dell,Latitude,0.0027023618642693713,0.166794003722866,0
+Lenovo Legion Y520-15IKBM,1112.91,4,1,Gaming,"['Lenovo', 'Legion', 'Y520-15IKBM']",Lenovo,Legion,0.0035941810209271187,0.23639866630957673,0
+Toshiba Portege Z30-C-16J Grey,1114.55,1,0,Business,"['Toshiba', 'Portege', 'Z30-C-16J', 'Grey']",Toshiba,Portege,0.0008972230945224531,0.025906611864963208,0
+Acer Predator Helios 300 (PH317-51),1123.87,2,1,Gaming,"['Acer', 'Predator', 'Helios', '300', '(PH317-51)']",Acer,Predator,0.0017795652522088856,0.09477161404988906,0
+Acer Aspire 7 A715-71G,1123.87,2,4,Consumer,"['Acer', 'Aspire', '7', 'A715-71G']",Acer,Aspire,0.0017795652522088856,0.09477161404988906,0
+Dell Inspiron 17 2in1 (7779) Silver,1124.2,3,10,Consumer,"['Dell', 'Inspiron', '17', '2in1', '(7779)', 'Silver']",Dell,Inspiron,0.002668564312399929,0.16415617387074027,1
+Dell Latitude 5480,1133.82,4,14,Business,"['Dell', 'Latitude', '5480']",Dell,Latitude,0.003527896844296273,0.231225321786996,1
+Lenovo Legion Y520,1133.91,1,13,Gaming,"['Lenovo', 'Legion', 'Y520']",Lenovo,Legion,0.0008819042075649742,0.02471100404479111,1
+Asus AsusPro Advanced BU401LA-FA271G Dark Grey,1139.54,3,7,Business,"['Asus', 'AsusPro', 'Advanced', 'BU401LA-FA271G', 'Dark', 'Grey']",Asus,AsusPro,0.0026326412412025907,0.16135245157894756,1
+Acer Nitro 5 AN515-51,1140.62,3,14,Gaming,"['Acer', 'Nitro', '5', 'AN515-51']",Acer,Nitro,0.002630148515719521,0.16115789944932007,1
+Dell Latitude 5480,1143.4,4,5,Business,"['Dell', 'Latitude', '5480']",Dell,Latitude,0.003498338289312576,0.22891833697866165,0
+Dell Inspiron 15 (7567) Black,1144.2,1,2,Consumer,"['Dell', 'Inspiron', '15', '(7567)', 'Black']",Dell,Inspiron,0.0008739730816290858,0.024091995874155822,0
+Dell Latitude 5580,1144.4,3,10,Business,"['Dell', 'Latitude', '5580']",Dell,Latitude,0.0026214610276127227,0.16047985875700532,1
+Lenovo Legion Y520-15IKBM,1149.0,3,11,Gaming,"['Lenovo', 'Legion', 'Y520-15IKBM']",Lenovo,Legion,0.0026109660574412533,0.1596607477834528,1
+MSI GP62M 7RDX Leopard,1149.0,1,11,Gaming,"['MSI', 'GP62M', '7RDX', 'Leopard']",MSI,MSI Gaming,0.0008703220191470844,0.02380703790902855,1
+Lenovo Yoga 720 Grey,1149.73,2,12,Convertible,"['Lenovo', 'Yoga', '720', 'Grey']",Lenovo,Yoga,0.0017395388482513284,0.0916476350220486,1
+Toshiba Portege Z30-C-16L Grey,1154.04,1,7,Business,"['Toshiba', 'Portege', 'Z30-C-16L', 'Grey']",Toshiba,Portege,0.000866521091123358,0.023510383244646438,1
+Acer TravelMate P645-S-511A Black,1170.1,1,0,Business,"['Acer', 'TravelMate', 'P645-S-511A', 'Black']",Acer,TravelMate,0.0008546278095889241,0.022582136926911495,0
+Dell Latitude 5580,1178.19,3,6,Business,"['Dell', 'Latitude', '5580']",Dell,Latitude,0.0025462786138059227,0.15461202500796523,0
+ThinkPad T540p,1178.99,1,2,Business,"['ThinkPad', 'T540p']",Lenovo,ThinkPad,0.0008481836147889295,0.022079180692625544,0
+MSI GS63 7RD Stealth,1179.0,1,2,Gaming,"['MSI', 'GS63', '7RD', 'Stealth']",MSI,MSI Gaming,0.0008481764206955047,0.022078619208336134,0
+Dell Latitude 5480,1187.88,3,5,Business,"['Dell', 'Latitude', '5480']",Dell,Latitude,0.0025255076270330333,0.15299089193953214,0
+Acer Predator Helios 300 (PH317-51),1187.98,3,14,Gaming,"['Acer', 'Predator', 'Helios', '300', '(PH317-51)']",Acer,Predator,0.002525295038637014,0.1529742998496849,1
+MSI GL62M 7REX,1199.0,1,7,Gaming,"['MSI', 'GL62M', '7REX']",MSI,MSI Gaming,0.0008340283569641367,0.020974391748177335,1
+MSI GL62M 7REX2,1199.0,2,12,Gaming,"['MSI', 'GL62M', '7REX2']",MSI,MSI Gaming,0.0016680567139282735,0.08606860052453823,1
+Lenovo Yoga 910 Grey,1199.73,3,7,Convertible,"['Lenovo', 'Yoga', '910', 'Grey']",Lenovo,Yoga,0.002500562626590983,0.15104398563455734,1
+Toshiba Portege X30-D-10J Black/Blue,1203.41,4,13,Business,"['Toshiba', 'Portege', 'X30-D-10J', 'Black/Blue']",Toshiba,Portege,0.0033238879517371468,0.21530284465106692,1
+Lenovo IdeaPad Miix 510 Platinum Silver,1212.16,4,0,Consumer,"['Lenovo', 'IdeaPad', 'Miix', '510', 'Platinum', 'Silver']",Lenovo,IdeaPad,0.0032998944033790917,0.21343019723678713,0
+Acer Predator Helios 300 (PH317-51),1221.58,1,9,Gaming,"['Acer', 'Predator', 'Helios', '300', '(PH317-51)']",Acer,Predator,0.0008186119615579823,0.019771173592861915,1
+ThinkPad Yoga,1223.99,3,2,Business,"['ThinkPad', 'Yoga']",Lenovo,ThinkPad,0.002451000416670071,0.14717575643938574,0
+Asus VivoBook Pro 15 N580VN-FI006T Gold Metal,1235.49,2,10,Consumer,"['Asus', 'VivoBook', 'Pro', '15', 'N580VN-FI006T', 'Gold', 'Metal']",Asus,VivoBook,0.0016187909250580741,0.08222350638658583,1
+Dell Latitude 5480,1238.37,2,0,Business,"['Dell', 'Latitude', '5480']",Dell,Latitude,0.0016150262038001567,0.08192967758628018,0
+Asus ZenBook UX530UX-FY040T Blue,1239.2,1,14,Premium,"['Asus', 'ZenBook', 'UX530UX-FY040T', 'Blue']",Asus,ZenBook,0.0008069722401549387,0.018862717125186945,1
+ThinkPad X230,1244.99,3,10,Business,"['ThinkPad', 'X230']",Lenovo,ThinkPad,0.0024096579088988667,0.14394905819858145,1
+Asus ROG Strix GL753VE-GC096T,1259.0,4,7,Gaming,"['Asus', 'ROG', 'Strix', 'GL753VE-GC096T']",Asus,ROG,0.003177124702144559,0.20384827295706415,1
+"Apple MacBook Air 13""",1260.13,4,8,Premium,"['Apple', 'MacBook', 'Air', '13""']",Apple,MacBook,0.0031742756699705585,0.20362591181838535,1
+Dell Latitude 5480,1271.06,1,13,Business,"['Dell', 'Latitude', '5480']",Dell,Latitude,0.0007867449215615313,0.017284016247080175,1
+Hewlett Packard Spectre 13-v106na Dark Ash Silver,1273.11,3,8,Premium,"['Hewlett', 'Packard', 'Spectre', '13-v106na', 'Dark', 'Ash', 'Silver']",HP,Spectre,0.0023564342437024295,0.13979505990198754,1
+Dell XPS 13,1281.99,3,4,Premium,"['Dell', 'XPS', '13']",Dell,XPS,0.002340111857346781,0.1385211310046171,0
+Toshiba Portege Z30-C-16K Grey,1294.74,1,6,Business,"['Toshiba', 'Portege', 'Z30-C-16K', 'Grey']",Toshiba,Portege,0.0007723558397825046,0.016160977820864682,0
+MSI GL62VR 7RFX,1299.0,3,1,Gaming,"['MSI', 'GL62VR', '7RFX']",MSI,MSI Gaming,0.0023094688221709007,0.13612950473361024,0
+Dell Latitude 5480,1310.39,3,8,Business,"['Dell', 'Latitude', '5480']",Dell,Latitude,0.002289394760338525,0.13456276523249466,1
+ThinkPad X240,1311.99,3,12,Business,"['ThinkPad', 'X240']",Lenovo,ThinkPad,0.0022866027942286147,0.1343448579834935,1
+Hewlett Packard ProBook 640 G3,1326.83,1,2,Business,"['Hewlett', 'Packard', 'ProBook', '640', 'G3']",HP,ProBook,0.000753676054958058,0.014703058790765909,0
+"Apple MacBook Pro 13"" Space Gray",1333.0,1,0,Premium,"['Apple', 'MacBook', 'Pro', '13""', 'Space', 'Gray']",Apple,MacBook,0.0007501875468867217,0.014430787865182322,0
+Dell Latitude 5580,1337.28,1,6,Business,"['Dell', 'Latitude', '5580']",Dell,Latitude,0.0007477865518066523,0.014243395106041674,0
+Dell Latitude 5480,1338.37,2,11,Business,"['Dell', 'Latitude', '5480']",Dell,Latitude,0.0014943550737090642,0.07251154249550082,1
+Dell Latitude 5580,1341.22,3,3,Business,"['Dell', 'Latitude', '5580']",Dell,Latitude,0.002236769508358062,0.13045547186444417,0
+"Apple MacBook Air 13""",1347.78,2,11,Premium,"['Apple', 'MacBook', 'Air', '13""']",Apple,MacBook,0.0014839217082906707,0.07169723964702564,1
+Lenovo ThinkPad T470,1349.23,1,5,Business,"['Lenovo', 'ThinkPad', 'T470']",Lenovo,ThinkPad,0.0007411634784284369,0.013726477764295648,0
+Lenovo ThinkPad Yoga 370 Black,1362.24,2,12,Business,"['Lenovo', 'ThinkPad', 'Yoga', '370', 'Black']",Lenovo,ThinkPad,0.0014681700728212356,0.07046785668989361,1
+Toshiba Portege X20W-D-10V Black/Blue,1366.32,1,11,Business,"['Toshiba', 'Portege', 'X20W-D-10V', 'Black/Blue']",Toshiba,Portege,0.0007318929679723638,0.013002933369129464,1
+Asus ASUSPRO B9440UA-GV0279R Gray,1381.13,1,4,Business,"['Asus', 'ASUSPRO', 'B9440UA-GV0279R', 'Gray']",Asus,AsusPro,0.0007240448038924648,0.012390400201806893,0
+Lenovo Legion Y720,1399.0,3,8,Gaming,"['Lenovo', 'Legion', 'Y720']",Lenovo,Legion,0.002144388849177984,0.12324535021168075,1
+Asus ROG Strix GL702VM-GC146T,1399.0,3,10,Gaming,"['Asus', 'ROG', 'Strix', 'GL702VM-GC146T']",Asus,ROG,0.002144388849177984,0.12324535021168075,1
+Asus ROG Strix GL702ZC-GC154T,1769.0,4,7,Gaming,"['Asus', 'ROG', 'Strix', 'GL702ZC-GC154T']",Asus,ROG,0.0022611644997173543,0.13235945108455066,1
+Asus ROG Strix GL702ZC-GC209T,1769.0,1,8,Gaming,"['Asus', 'ROG', 'Strix', 'GL702ZC-GC209T']",Asus,ROG,0.0005652911249293386,0.0,1
+Asus ROG Strix SCAR Edition GL503VM-ED115T,1799.0,3,8,Gaming,"['Asus', 'ROG', 'Strix', 'SCAR', 'Edition', 'GL503VM-ED115T']",Asus,ROG,0.0016675931072818232,0.08603241697324511,1
